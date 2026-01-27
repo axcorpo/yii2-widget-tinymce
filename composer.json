@@ -1,5 +1,5 @@
 {
-	"name": "twsro/yii2-widget-tinymce",
+	"name": "axcorpo/yii2-widget-tinymce",
 	"description": "Yii2 TinyMCE Widget",
 	"keywords": ["yii2", "tinymce", "widget", "tws"],
 	"type": "yii2-extension",
